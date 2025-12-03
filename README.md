@@ -5,7 +5,7 @@
 
 ![Python](https://img.shields.io/badge/Python-3.x-blue?style=for-the-badge)
 ![Status](https://img.shields.io/badge/Project%20Status-Completed-brightgreen?style=for-the-badge)
-![Score](https://img.shields.io/badge/Final%20Score-185.18%25-purple?style=for-the-badge)
+
 
 ---
 
