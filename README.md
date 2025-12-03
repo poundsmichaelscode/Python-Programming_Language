@@ -177,7 +177,7 @@ python3 finance_calculator.py
 
 
 
-# 🙌 Author
+#  Author
 
 **Olayenikan Mic**
  Backend Engineering 
