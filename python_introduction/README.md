@@ -1,5 +1,4 @@
-
-# 🐍 Introduction to Python
+# 🐍  Python programming language for Backend
 
 **Backend Engineering – Python Foundations**
 
@@ -7,7 +6,7 @@
 ![Status](https://img.shields.io/badge/Project%20Status-Completed-brightgreen?style=for-the-badge)
 
 
----
+
 
 ## 📘 Project Overview
 
